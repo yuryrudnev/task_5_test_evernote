@@ -5,4 +5,4 @@ tried out webdriver.io, and wrote some tests with it. Then I tried Playwright.
 I chose JS + Playwright because I believe it's a promising, new product with convenient reports, 
 screenshots, and easy installation.
 
-The code could have been made even more convenient and readable, but that's for work.
+The code could have been made even more convenient and readable, that's how it will be at work.
